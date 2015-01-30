@@ -69,6 +69,11 @@ public class FutureWeatherListAdapter extends BaseAdapter {
 		return convertView;
 	}
 
+	/**
+	 * 用于存View，优化listview
+	 * @author yolo.cc
+	 *
+	 */
 	private class HolderView {
 		TextView week;
 		ImageView weather;
