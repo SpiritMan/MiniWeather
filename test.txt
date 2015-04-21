@@ -1,3 +1,5 @@
 this is a test !
 
 why not upload
+
+https://github.com/SpiritMan/MiniWeather.git
